@@ -10,7 +10,7 @@ Hi, I’m KDawg or Kaevin 👋
 <img src="https://github.com/KDawg2004/KDawg2004/assets/135804688/2f9b2c57-e005-4555-83b0-cc965f84fef2" alt="Second Image" width="50" height="50">
 <img src="https://github.com/KDawg2004/KDawg2004/assets/135804688/cad0b8f4-d61c-4a90-87a2-7d3ef4da65cd" alt="third Image" width="50" height="50">
 <br>
-<img src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="Snake Image" width="600" height="170">
+
 
 
 
