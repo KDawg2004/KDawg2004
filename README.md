@@ -1,8 +1,8 @@
-Hi, I’m KDawg or Kaevin 👋
+Hi, I’m Kaevin 
 
 - 💻 Interested in computer science
-- 📚 Currently learning HTML, JavaScript, C, C++, C#, and Assembly
-- 🤝 Looking to collaborate on API projects
+- 📚 Learned HTML, JavaScript, C, C++, C#, Intel Assembly, CSS, Java, JavaScript, and of course pyhthon.
+- 🤝 Looking to collaborate on API projects or AI projects
 - 📫 Reach me: [@notkaevinBarta](https://www.instagram.com/notkaevinBarta/) on Instagram
 - 🚻 Pronouns: He/Him
 
