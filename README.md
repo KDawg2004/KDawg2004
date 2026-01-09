@@ -1,4 +1,4 @@
-Hi, I’m Kaevin <br><br>- 💻 Interested in computer science; AI, hardware architecture, Theory, etc. <br>- 📚 Learned HTML, JavaScript, C, C++, C#, Intel Assembly, CSS, JavaScript, java, and of course python.<br>- 🤝 Looking to collaborate on all types of projects<br>- 📫 Reach me: [@notkaevinBarta](https://www.instagram.com/notkaevinBarta/) on Instagram<br>- 🚻 Pronouns: He/Him<br>
+Hi, I’m Kaevin <br><br>- 💻 Interested in computer science; AI, hardware architecture, Theory, etc. <br>- 📚 Learned HTML, JavaScript, C, C++, C#, Intel Assembly, CSS, JavaScript, java, and of course python.<br>- 🤝 Looking to collaborate on all types of projects<br>- 🚻 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
