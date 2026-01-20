@@ -6,7 +6,6 @@ Hi, I’m Kaevin <br><br>- 💻 Interested in computer science; AI, hardware arc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaevin-barta-729b61182/) 
 
 
-![](https://github-readme-stats.vercel.app/api?username=KDawg2004&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KDawg2004&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KDawg2004&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
