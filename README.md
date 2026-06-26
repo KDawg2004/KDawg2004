@@ -1,15 +1,10 @@
-Hi, I’m Kaevin <br><br>- 💻 Interested in computer science; AI, hardware architecture, Theory, etc. <br>- 📚 Learned HTML, JavaScript, C, C++, C#, Intel Assembly, CSS, JavaScript, java, and of course python.<br>- 🤝 Looking to collaborate on all types of projects<br>- 🚻 Pronouns: He/Him<br>
+Senior CS undergrad at Portland State University. Undergraduate researcher working on neuromorphic computing with memristive/capacitor crossbar arrays.
 
+- Building Python simulation frameworks for mixed memristor/memcapacitor crossbars
+- Interested in hardware architecture, neuromorphic systems, and CS theory
+- Languages: Python, C, C++, Java, JavaScript, C#, basic x86 Assembly
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@notkaevinbarta) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaevin-barta-729b61182/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaevin-barta-729b61182/)
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=KDawg2004&theme=highcontrast&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KDawg2004&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KDawg2004&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-
-
-
-
