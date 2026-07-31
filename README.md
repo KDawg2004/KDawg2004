@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kaevin 👋</h1>
+<h1 align="center">Kaevin Barta</h1>
 
 <p align="center">
 Senior Computer Science student at <b>Portland State University</b><br>
@@ -77,20 +77,6 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
 
 </p>
 
----
-
-## Featured Projects
-
-🔬 **Neuromorphic Crossbar Simulator**
-
-Python framework for evaluating mixed memristor/memcapacitor neural networks under realistic device physics.
-
----
-
-🚀 **More projects coming soon...**
-
----
-
 ## Currently Learning
 
 - Computer Architecture
@@ -99,6 +85,3 @@ Python framework for evaluating mixed memristor/memcapacitor neural networks und
 - SPICE Simulation
 - Parallel Computing
 
----
-
-> *"Bridging machine learning algorithms with emerging hardware."*
