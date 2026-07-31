@@ -69,8 +69,6 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
 
 ---
 
-## Languages
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KDawg2004/KDawg2004/output/github-contribution-grid-snake-dark.svg" />
 </p>
