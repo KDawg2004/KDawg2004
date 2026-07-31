@@ -48,7 +48,7 @@ My long-term interests include:
 
 ### Tools
 
-Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
+Git • Linux • GitHub • NumPy • Matplotlib • PyTorch • SPICE 
 
 ---
 
