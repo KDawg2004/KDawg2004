@@ -72,7 +72,7 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
 ## Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=KDawg2004&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://raw.githubusercontent.com/KDawg2004/KDawg2004/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
