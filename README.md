@@ -67,6 +67,16 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDawg2004&theme=github-compact&hide_border=true" />
 </p>
 
+---
+
+## Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDawg2004&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
 ## Currently Learning
 
 - Computer Architecture
