@@ -72,7 +72,7 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
 ## Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDawg2004&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=KDawg2004&show_icons=true&theme=github_dark&hide_border=true">
 </p>
 
 ---
