@@ -61,20 +61,10 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch
 
 ---
 
-## GitHub Statistics
+## Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KDawg2004&show_icons=true&theme=highcontrast&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDawg2004&layout=compact&theme=highcontrast"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=KDawg2004&theme=highcontrast"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDawg2004&theme=github-compact&hide_border=true" />
 </p>
 
 ## Currently Learning
