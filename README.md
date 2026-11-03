@@ -61,14 +61,6 @@ Git • Linux • GitHub • NumPy • Matplotlib • PyTorch • SPICE
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDawg2004&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KDawg2004/KDawg2004/output/github-contribution-grid-snake-dark.svg" />
 </p>
